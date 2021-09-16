@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://bburgschat.github.io/sitemap.xml
